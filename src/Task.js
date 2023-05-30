@@ -1,4 +1,4 @@
-const url = "YOURDEPLOYURL"; // TODO: replace this
+const url = "https://app-galery-ananda.web.app/"; // TODO: replace this
 const studentName = "Ananda Irvan Tri Kurniawan"; // TODO: replace this
 const studentId = "FE4239922"; // TODO: replace this
 
